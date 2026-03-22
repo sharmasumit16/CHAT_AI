@@ -116,10 +116,3 @@ ChatAI is a sleek and powerful conversational application that integrates **Deep
 3. Run the app from the XCode Project File to your simulator or best use it on your iPhone!
 
 ---
-
-## 📬 Feedback & Contributions
-
-Found a bug? Have a feature request?
-Feel free to [open an issue](https://github.com/adityaanand176/ChatAI/issues) or submit a PR.
-
----
