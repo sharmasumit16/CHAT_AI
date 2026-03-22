@@ -104,7 +104,7 @@ ChatAI is a sleek and powerful conversational application that integrates **Deep
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/adityaanand176/ChatAI.git
+   git clone https://github.com/sharmasumit16/CHAT_AI
    cd ChatAI
    ```
 
